@@ -31,13 +31,28 @@ If you believe this is a mistake, reply with your full name, date of birth, and 
 ### Questions
 
 1.  Who appears to be the sender?
+   - Security Team <support@secure-verification-update.com> appear to be the sender.
+     
 2.  Does the email create urgency or pressure?
+   - Yes, the email create urgency or pressure.
+     
 3.  Are there spelling or grammar mistakes?
+   - No, there is not spelling or grammar mistakes.
+     
 4.  Does the link match the organisation domain?
+   - No, the link dorsnot match the organization domain.
 
 ### Reflection
 
 Explain why attackers use phishing emails.
+- Attackers use phishing emails because exploiting human psychology is often much easier, cheaper, and faster than breaking through technical security defenses like firewalls or encryption.
+   Here are the main reasons why phishing is such a common attack method:
+    - To bypass technical defenses by exploiting human trust rather than hacking systems directly.
+    - To steal sensitive data like passwords, login credentials, and financial details.
+    - To deliver malware (such as ransomware or spyware) via malicious links or attachments.
+    - To scale attacks cheaply, reaching millions of targets at almost no cost.
+    - To manipulate emotions (fear, urgency, or curiosity) so victims act without thinking.  
+    - To gain internal access to a company's network through a single compromised employee.   
 
 ------------------------------------------------------------------------
 
@@ -52,8 +67,12 @@ Hover over the link in the email (or copy link) and inspect the URL.
 ### Questions
 
 1.  Does the displayed link match the actual URL?
+   - No, the displayed link doesnot match the actual URL.
+     
 2.  Are there unusual domain names?
+   - Yes, there are unsual domain names.
 
 ### Reflection
 
 Explain why users should always inspect links before clicking them.
+- Attackers frequently disguise malicious destinations using deceptive display text, lookalike domains, or redirect chains so a link appears trustworthy at a glance. Inspecting a link by hovering over it or copying it first helps you spot mismatches between the visible text and the real destination before your browser ever makes a request—protecting you from credential harvesting, malware downloads, session hijacking, and account takeovers.
