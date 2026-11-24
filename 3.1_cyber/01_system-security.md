@@ -102,8 +102,8 @@ Run:
    - Bullet Ports 47084 & 49030 (UDP)
      
 3.  Why might open ports represent a security risk?
-   - An open port acts like an entry point that can receive network traffic from other devices (especially when bound to 0.0.0.0, *, or [::]).
-      Bullet If a listening service has a bug, weak settings, or isn't meant to be exposed, an attacker could exploit it to probe, disrupt, or access your system
+   - An open port acts like an security risk that can receive network traffic from other devices (especially when bound to 0.0.0.0, *, or [::]).
+       If a listening service has a bug, weak settings, or isn't meant to be exposed, an attacker could exploit it to probe, disrupt, or access your system.
 
 ### Reflection
 
